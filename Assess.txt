@@ -1,0 +1,11 @@
+import java.util.LinkedList;
+import java.util.IteratorList;
+class Assess
+{
+public static void main (String[] args)
+{
+ LinkedList<Student> s =new LinkedList<Student>();
+  s.add(new Student(101,"john",10000));
+  s.add(new Student(102,"Peter",20000));
+  s.add(new Student(103,Sophie",25000));
+ 
