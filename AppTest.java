@@ -1,4 +1,4 @@
-package com.deloitte.firstmvn.hibfirst;
+package com.deloitte.firstmvn.hibsecond;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
