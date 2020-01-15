@@ -1,0 +1,43 @@
+Virtual User Script started at: 1/15/2020 10:21:43 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.60.0 for Windows 10; build 971 (Aug 09 2018 11:27:13)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\admin\Documents\VuGen\Scripts\WebHttpHtml1\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_url("nexwavelearn.com") started  	[MsgId: MMSG-26355]
+Action.c(4): Found resource "http://nexwavelearn.com/css/style.css" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/css/jquery.jscrollpane.codrops1.css" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://fonts.googleapis.com/css?family=Bitter|Rokkitt|Righteous|Josefin+Slab|Domine|Open+Sans|Open+Sans+Condensed:300|Roboto|Roboto+Condensed|Roboto+Slab" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/css/bootstrap.min.css" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/css/modern-business.css" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/css/ninja-slider.css" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://fonts.googleapis.com/css?family=Arvo" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/images/Nexwave.png" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/images/training-icon.jpg" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Downloading resource "http://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxM.woff" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(4): Downloading resource "http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?" (specified by argument number 11)  	[MsgId: MMSG-26577]
+Action.c(4): Downloading resource "http://nexwavelearn.com/images/footer-bg.jpg" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(4): Downloading resource "http://nexwavelearn.com/images/divider.jpg" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(4): Downloading resource "http://nexwavelearn.com/images/md/slide-1.jpg" (specified by argument number 17)  	[MsgId: MMSG-26577]
+Action.c(4): Downloading resource "http://nexwavelearn.com/images/social-sprites.png" (specified by argument number 19)  	[MsgId: MMSG-26577]
+Action.c(4): Found resource "http://nexwavelearn.com/images/footer-img.png" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/images/hadoopcourse.jpg" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/js/jquery-1.11.0.js" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/js/bootstrap.min.js" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://nexwavelearn.com/js/jquery.newsTicker.js" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://l.yimg.com/t/smb/js/geov2.js" in HTML "http://nexwavelearn.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Warning -26627: HTTP Status-Code=404 (Not Found on Accelerator) for "http://l.yimg.com/t/smb/js/geov2.js"  	[MsgId: MWAR-26627]
+Action.c(4): Warning -26627: HTTP Status-Code=404 (Not Found) for "http://nexwavelearn.com/css/jquery.jscrollpane.codrops1.css"  	[MsgId: MWAR-26627]
+Action.c(4): web_url("nexwavelearn.com") highest severity level was "warning", 834449 body bytes, 10880 header bytes, 33 chunking overhead bytes  	[MsgId: MMSG-26387]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
