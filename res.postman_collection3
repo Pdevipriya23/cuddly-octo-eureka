@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "d66e3dfc-6dc8-4ede-b2d8-883aee795553",
+		"name": "res",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "sample",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "sample",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://dummy.restapiexample.com/api/v1/create"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
